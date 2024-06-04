@@ -1,1 +1,1 @@
-# my-dev-front-project
+# my-dev-project
